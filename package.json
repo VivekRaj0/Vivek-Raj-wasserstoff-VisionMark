@@ -1,0 +1,16 @@
+{
+  "name": "vision",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "json2csv": "^6.0.0-alpha.2",
+    "node": "^18.20.2"
+  }
+}
